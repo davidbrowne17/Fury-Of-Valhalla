@@ -1,0 +1,1352 @@
+[
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " King Ragnar: Welcome. "
+  },
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " My name is Ragnar Lothbrok. "
+  },
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " I am the King of Sweden. "
+  },
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " You are the warrior Leif. "
+  },
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " Do you know why I summoned you? "
+  },
+  {
+    "logo": 2,
+    "id": 1,
+    "bg": 1,
+    "line": " Leif: I do not. "
+  },
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " Ragnar: The Seeress told me that the gods favour you. "
+  },
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " I intend to test this theory. I have a task for you. "
+  },
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " There is a clan just north of here. "
+  },
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " They are small but powerful. "
+  },
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " If the gods truly protect you, eliminate this clan. "
+  },
+  {
+    "logo": 1,
+    "id": 1,
+    "bg": 1,
+    "line": " If you succeed I will bring you to raid England with me. "
+  },
+  {
+    "logo": 2,
+    "id": 1,
+    "bg": 1,
+    "line": " Leif: I will not fail you King Ragnar! "
+  },
+  {
+    "logo": 2,
+    "id": 1,
+    "bg": 2,
+    "line": " Leif:  I have been given a great task my friends."
+  },
+  {
+    "logo": 5,
+    "id": 1,
+    "bg": 2,
+    "line": " Astrid:  What is it? "
+  },
+  {
+    "logo": 4,
+    "id": 1,
+    "bg": 2,
+    "line": " Knut:  Yes, tell us! "
+  },
+  {
+    "logo": 2,
+    "id": 1,
+    "bg": 2,
+    "line": " Leif: He is sending me to raid a clan up north. "
+  },
+  {
+    "logo": 2,
+    "id": 1,
+    "bg": 2,
+    "line": " If I succeed he will take me to find England with him. "
+  },
+  {
+    "logo": 5,
+    "id": 1,
+    "bg": 2,
+    "line": " Astrid: What? An entire clan by yourself?? "
+  },
+  {
+    "logo": 4,
+    "id": 1,
+    "bg": 2,
+    "line": " Knut: Go ahead and get yourself killed. "
+  },
+  {
+    "logo": 5,
+    "id": 1,
+    "bg": 2,
+    "line": " Astrid: Knut! "
+  },
+  {
+    "logo": 4,
+    "id": 1,
+    "bg": 2,
+    "line": " Knut: He will never survive on his own. "
+  },
+  {
+    "logo": 4,
+    "id": 1,
+    "bg": 2,
+    "line": " Am I wrong? "
+  },
+  {
+    "logo": 5,
+    "id": 1,
+    "bg": 2,
+    "line": " Astrid: Leif is a mighty warrior!"
+  },
+  {
+    "logo": 2,
+    "id": 1,
+    "bg": 2,
+    "line": " Leif: Ragnar Lothbrok himself told me that the gods protect me. "
+  },
+  {
+    "logo": 2,
+    "id": 1,
+    "bg": 2,
+    "line": " They will ensure my success! "
+  },
+  {
+    "logo": 5,
+    "id": 1,
+    "bg": 2,
+    "line": " Astrid: This is amazing news Leif!  "
+  },
+  {
+    "logo": 4,
+    "id": 1,
+    "bg": 2,
+    "line": " Knut: Haha. He is lying to you. "
+  },
+  {
+    "logo": 4,
+    "id": 1,
+    "bg": 2,
+    "line": " He is sending you to your death. "
+  },
+  {
+    "logo": 2,
+    "id": 1,
+    "bg": 2,
+    "line": " Leif: Ragnar Lothbrok would not do that! "
+  },
+  {
+    "logo": 5,
+    "id": 1,
+    "bg": 2,
+    "line": " Astrid: Be careful with your words Knut.  "
+  },
+  {
+    "logo": 4,
+    "id": 1,
+    "bg": 2,
+    "line": " Knut: I am merely making an observation. "
+  },
+  {
+    "logo": 2,
+    "id": 1,
+    "bg": 2,
+    "line": " Leif: Enough of this. I am going to conquer this clan! "
+  },
+  {
+    "logo": 2,
+    "id": 2,
+    "bg": 3,
+    "line": " Leif: Odin gives me victory this day! "
+  },
+  {
+    "logo": 4,
+    "id": 2,
+    "bg": 3,
+    "line": " Knut: You succeeded all on your own? How? "
+  },
+  {
+    "logo": 5,
+    "id": 2,
+    "bg": 3,
+    "line": " Astrid: He already told you Knut.  "
+  },
+  {
+    "logo": 4,
+    "id": 2,
+    "bg": 3,
+    "line": " Knut: That's impossible! "
+  },
+  {
+    "logo": 2,
+    "id": 2,
+    "bg": 3,
+    "line": " Leif: I must find King Ragnar. "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 4,
+    "line": " King Ragnar: It seems you were successful. "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 4,
+    "line": " The seeress was correct. "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 4,
+    "line": "  I expected as much. "
+  },
+  {
+    "logo": 2,
+    "id": 2,
+    "bg": 4,
+    "line": " Leif: Ragnar will you allow me to join you on your next raid? "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 4,
+    "line": " King Ragnar: I will bring you if you swear to be loyal to me. "
+  },
+  {
+    "logo": 2,
+    "id": 2,
+    "bg": 4,
+    "line": " Leif: I swear King Ragnar. "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 4,
+    "line": " King Ragnar: Bring your friends too. What are their names? "
+  },
+  {
+    "logo": 2,
+    "id": 2,
+    "bg": 4,
+    "line": " Leif: Astrid and Knut. "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 4,
+    "line": " King Ragnar: Yes. They will be useful on the raid. "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 4,
+    "line": " I will tell them that they are coming. "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 4,
+    "line": " Now go ready yourself to set sail. We leave soon. "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 5,
+    "line": " King Ragnar: I see land! "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 5,
+    "line": " There it is.... "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 5,
+    "line": " England! "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 5,
+    "line": " We will find many treasures here my friends. "
+  },
+  {
+    "logo": 2,
+    "id": 2,
+    "bg": 5,
+    "line": " Leif: The gods have guided us to find this new land. "
+  },
+  {
+    "logo": 5,
+    "id": 2,
+    "bg": 5,
+    "line": " Astrid: The gods are with us as long as we follow King Ragnar. "
+  },
+  {
+    "logo": 4,
+    "id": 2,
+    "bg": 5,
+    "line": " Knut: .... "
+  },
+  {
+    "logo": 1,
+    "id": 2,
+    "bg": 5,
+    "line": " King Ragnar: It is time to raid!!! "
+  },
+  {
+    "logo": 1,
+    "id": 3,
+    "bg": 9,
+    "line": " King Ragnar: Odin has granted us victory!! "
+  },
+  {
+    "logo": 5,
+    "id": 3,
+    "bg": 9,
+    "line": " Astrid: The gods show favour to King Ragnar. "
+  },
+  {
+    "logo": 1,
+    "id": 3,
+    "bg": 9,
+    "line": " King Ragnar: We are not finished yet. "
+  },
+  {
+    "logo": 1,
+    "id": 3,
+    "bg": 9,
+    "line": " I have heard of a place nearby with great goods to plunder. "
+  },
+  {
+    "logo": 1,
+    "id": 3,
+    "bg": 9,
+    "line": " We attack tonight! "
+  },
+  {
+    "logo": 1,
+    "id": 4,
+    "bg": 9,
+    "line": " King Ragnar: Another victory! "
+  },
+  {
+    "logo": 1,
+    "id": 4,
+    "bg": 9,
+    "line": " Surely this is proof that Odin approves of our conquests "
+  },
+  {
+    "logo": 2,
+    "id": 4,
+    "bg": 9,
+    "line": " Leif: We have amassed great wealth here.  "
+  },
+  {
+    "logo": 2,
+    "id": 4,
+    "bg": 9,
+    "line": " Perhaps it is time to return home my King.  "
+  },
+  {
+    "logo": 4,
+    "id": 4,
+    "bg": 9,
+    "line": " Knut: We should attack every saxon in this pitiful land! "
+  },
+  {
+    "logo": 1,
+    "id": 4,
+    "bg": 9,
+    "line": " King Ragnar: We have one more monastery to raid. "
+  },
+  {
+    "logo": 1,
+    "id": 4,
+    "bg": 9,
+    "line": " Then perhaps we shall leave for now. "
+  },
+  {
+    "logo": 5,
+    "id": 4,
+    "bg": 9,
+    "line": " Astrid: I long to return home. "
+  },
+  {
+    "logo": 1,
+    "id": 4,
+    "bg": 9,
+    "line": " Knut: Urgh.. "
+  },
+  {
+    "logo": 5,
+    "id": 4,
+    "bg": 9,
+    "line": " Astrid: I can't wait to return to Sweden. "
+  },
+  {
+    "logo": 1,
+    "id": 5,
+    "bg": 5,
+    "line": " King Ragnar: The gods guide us on our journey home. "
+  },
+  {
+    "logo": 4,
+    "id": 5,
+    "bg": 5,
+    "line": " Knut: The gods cant help you Ragnar.... "
+  },
+  {
+    "logo": 4,
+    "id": 5,
+    "bg": 5,
+    "line": " I've arranged a surprise for you when we return hehehe. "
+  },
+  {
+    "logo": 1,
+    "id": 6,
+    "bg": 2,
+    "line": " King Ragnar: Impossible! "
+  },
+  {
+    "logo": 1,
+    "id": 6,
+    "bg": 2,
+    "line": " Why would anyone attack me in my own land. "
+  },
+  {
+    "logo": 1,
+    "id": 6,
+    "bg": 2,
+    "line": " I fear I have been betrayed. "
+  },
+  {
+    "logo": 1,
+    "id": 6,
+    "bg": 2,
+    "line": " Leif I need your help in taking back my lands. "
+  },
+  {
+    "logo": 2,
+    "id": 6,
+    "bg": 2,
+    "line": " Leif: I will help you Ragnar. "
+  },
+  {
+    "logo": 1,
+    "id": 6,
+    "bg": 2,
+    "line": " King Ragnar: Thank you my friend "
+  },
+  {
+    "logo": 1,
+    "id": 7,
+    "bg": 1,
+    "line": " King Ragnar: You never cease to amaze me Leif. "
+  },
+  {
+    "logo": 1,
+    "id": 7,
+    "bg": 1,
+    "line": " I feel you are the only one I can trust "
+  },
+  {
+    "logo": 2,
+    "id": 7,
+    "bg": 1,
+    "line": " Leif: I am loyal to you Ragnar. "
+  },
+  {
+    "logo": 1,
+    "id": 7,
+    "bg": 1,
+    "line": " King Ragnar: What about your friends? "
+  },
+  {
+    "logo": 2,
+    "id": 7,
+    "bg": 1,
+    "line": " Leif: I trust them with my life. "
+  },
+  {
+    "logo": 1,
+    "id": 7,
+    "bg": 1,
+    "line": " King Ragnar: Then I trust them too. "
+  },
+  {
+    "logo": 1,
+    "id": 7,
+    "bg": 1,
+    "line": " Come. We must finish liberating my lands from these invaders. "
+  },
+  {
+    "logo": 1,
+    "id": 8,
+    "bg": 2,
+    "line": " King Ragnar: My lands are free. "
+  },
+  {
+    "logo": 1,
+    "id": 8,
+    "bg": 2,
+    "line": " I have plans to avenge the people we lost. "
+  },
+  {
+    "logo": 2,
+    "id": 8,
+    "bg": 2,
+    "line": " Leif: How can we avenge them? "
+  },
+  {
+    "logo": 4,
+    "id": 8,
+    "bg": 2,
+    "line": " Knut: I think we should just forget about it. "
+  },
+  {
+    "logo": 4,
+    "id": 8,
+    "bg": 2,
+    "line": " There is no use worrying about spoiled apples. "
+  },
+  {
+    "logo": 5,
+    "id": 8,
+    "bg": 2,
+    "line": " Astrid: What? "
+  },
+  {
+    "logo": 4,
+    "id": 8,
+    "bg": 2,
+    "line": " Knut: Nevermind. We should move on. "
+  },
+  {
+    "logo": 1,
+    "id": 8,
+    "bg": 2,
+    "line": " King Ragnar: I cannot move on. "
+  },
+  {
+    "logo": 1,
+    "id": 8,
+    "bg": 2,
+    "line": " We will sail around Scandinavia. "
+  },
+  {
+    "logo": 1,
+    "id": 8,
+    "bg": 2,
+    "line": " We will destroy this clan and find out who betrayed me. "
+  },
+  {
+    "logo": 2,
+    "id": 8,
+    "bg": 2,
+    "line": " Leif: I am with you Ragnar. "
+  },
+  {
+    "logo": 2,
+    "id": 8,
+    "bg": 5,
+    "line": " Leif: There is the clan. "
+  },
+  {
+    "logo": 2,
+    "id": 8,
+    "bg": 5,
+    "line": " we should attack them at night! "
+  },
+  {
+    "logo": 1,
+    "id": 9,
+    "bg": 5,
+    "line": " King Ragnar: We are not finished. "
+  },
+  {
+    "logo": 1,
+    "id": 9,
+    "bg": 5,
+    "line": " We shall raid every village that belonged to them. "
+  },
+  {
+    "logo": 1,
+    "id": 9,
+    "bg": 5,
+    "line": " I will find out who betrayed me. "
+  },
+  {
+    "logo": 4,
+    "id": 9,
+    "bg": 5,
+    "line": " Knut: Hmpfh... Im sure we will find them. "
+  },
+  {
+    "logo": 4,
+    "id": 10,
+    "bg": 5,
+    "line": " Knut: We should stop searching for the betrayer. "
+  },
+  {
+    "logo": 1,
+    "id": 10,
+    "bg": 5,
+    "line": " King Ragnar: Argh. "
+  },
+  {
+    "logo": 1,
+    "id": 10,
+    "bg": 5,
+    "line": " Perhaps you are right. "
+  },
+  {
+    "logo": 1,
+    "id": 10,
+    "bg": 5,
+    "line": " We must return home. "
+  },
+  {
+    "logo": 1,
+    "id": 10,
+    "bg": 3,
+    "line": " King Ragnar: I have a plan my friends. "
+  },
+  {
+    "logo": 1,
+    "id": 10,
+    "bg": 3,
+    "line": " We are going to raid the city of Paris. "
+  },
+  {
+    "logo": 1,
+    "id": 10,
+    "bg": 3,
+    "line": " It is a large and powerful city but together we shall conquer it. "
+  },
+  {
+    "logo": 2,
+    "id": 10,
+    "bg": 3,
+    "line": " Leif: How will we do this Ragnar? "
+  },
+  {
+    "logo": 1,
+    "id": 10,
+    "bg": 3,
+    "line": " King Ragnar: Together. They can not stop all of us. "
+  },
+  {
+    "logo": 5,
+    "id": 10,
+    "bg": 3,
+    "line": " Astrid: We stand with you Ragnar. "
+  },
+  {
+    "logo": 4,
+    "id": 10,
+    "bg": 3,
+    "line": " Knut: Yes.... "
+  },
+  {
+    "logo": 2,
+    "id": 10,
+    "bg": 3,
+    "line": " Leif: I am ready to fight. "
+  },
+  {
+    "logo": 1,
+    "id": 10,
+    "bg": 5,
+    "line": " King Ragnar: There it is. Paris. "
+  },
+  {
+    "logo": 1,
+    "id": 10,
+    "bg": 5,
+    "line": " We should attack some of the forts nearby first. "
+  },
+  {
+    "logo": 1,
+    "id": 11,
+    "bg": 9,
+    "line": " King Ragnar: We control part of the land around Paris. "
+  },
+  {
+    "logo": 4,
+    "id": 11,
+    "bg": 9,
+    "line": " Knut: We should attack the city now."
+  },
+  {
+    "logo": 4,
+    "id": 11,
+    "bg": 9,
+    "line": " They cannot stop us."
+  },
+  {
+    "logo": 2,
+    "id": 11,
+    "bg": 9,
+    "line": " Leif: We need to cut off their supply first. "
+  },
+  {
+    "logo": 1,
+    "id": 11,
+    "bg": 9,
+    "line": " King Ragnar: Leif is right. "
+  },
+  {
+    "logo": 1,
+    "id": 11,
+    "bg": 9,
+    "line": " We attack the supply routes. "
+  },
+  {
+    "logo": 1,
+    "id": 12,
+    "bg": 9,
+    "line": " King Ragnar: We are ready. "
+  },
+  {
+    "logo": 1,
+    "id": 12,
+    "bg": 9,
+    "line": " Paris is ours for the taking. "
+  },
+  {
+    "logo": 1,
+    "id": 12,
+    "bg": 9,
+    "line": " Odin is with us! "
+  },
+  {
+    "logo": 1,
+    "id": 12,
+    "bg": 9,
+    "line": " Follow me and take this city. "
+  },
+  {
+    "logo": 1,
+    "id": 13,
+    "bg": 9,
+    "line": " King Ragnar: Paris is ours! "
+  },
+  {
+    "logo": 2,
+    "id": 13,
+    "bg": 9,
+    "line": " Leif: Odin has granted us victory. "
+  },
+  {
+    "logo": 5,
+    "id": 13,
+    "bg": 9,
+    "line": " Astrid: The gods truly are with you King Ragnar. "
+  },
+  {
+    "logo": 1,
+    "id": 13,
+    "bg": 9,
+    "line": " King Ragnar: Indeed. They are also with Leif. "
+  },
+  {
+    "logo": 1,
+    "id": 13,
+    "bg": 9,
+    "line": " I could not do this without you my friend. "
+  },
+  {
+    "logo": 4,
+    "id": 13,
+    "bg": 9,
+    "line": " Knut: ..... "
+  },
+  {
+    "logo": 1,
+    "id": 13,
+    "bg": 9,
+    "line": " King Ragnar: We don't have much time to celebrate. "
+  },
+  {
+    "logo": 1,
+    "id": 13,
+    "bg": 9,
+    "line": " The Franks will return soon to try take back the city. "
+  },
+  {
+    "logo": 1,
+    "id": 13,
+    "bg": 9,
+    "line": " Prepare yourselves for the next assault. "
+  },
+  {
+    "logo": 1,
+    "id": 14,
+    "bg": 9,
+    "line": " King Ragnar: It is time to leave. "
+  },
+  {
+    "logo": 1,
+    "id": 14,
+    "bg": 9,
+    "line": " We shall not return to Sweden. "
+  },
+  {
+    "logo": 1,
+    "id": 14,
+    "bg": 9,
+    "line": " Odin wants me to go to England. I can feel it. "
+  },
+  {
+    "logo": 1,
+    "id": 14,
+    "bg": 5,
+    "line": " King Ragnar: I know my destiny lies in England. "
+  },
+  {
+    "logo": 2,
+    "id": 14,
+    "bg": 5,
+    "line": " Leif: What awaits us? "
+  },
+  {
+    "logo": 1,
+    "id": 14,
+    "bg": 5,
+    "line": " King Ragnar: You shall see soon. "
+  },
+  {
+    "logo": 5,
+    "id": 14,
+    "bg": 5,
+    "line": " Knut: Hehehe. It will be your end. "
+  },
+  {
+    "logo": 1,
+    "id": 15,
+    "bg": 7,
+    "line": " King Ragnar: This is the place. "
+  },
+  {
+    "logo": 1,
+    "id": 15,
+    "bg": 7,
+    "line": " It is beautiful. "
+  },
+  {
+    "logo": 1,
+    "id": 15,
+    "bg": 7,
+    "line": " I can feel the gods here. "
+  },
+  {
+    "logo": 2,
+    "id": 15,
+    "bg": 7,
+    "line": " Leif: What is that noise? "
+  },
+  {
+    "logo": 2,
+    "id": 15,
+    "bg": 7,
+    "line": " Ragnar wait!! "
+  },
+  {
+    "logo": 1,
+    "id": 15,
+    "bg": 7,
+    "line": " * Falls through trap door plunging into snake pit * "
+  },
+  {
+    "logo": 2,
+    "id": 15,
+    "bg": 7,
+    "line": " Leif: RAGNAR NOOOO! "
+  },
+  {
+    "logo": 2,
+    "id": 15,
+    "bg": 7,
+    "line": " It is a Saxon trap! "
+  },
+  {
+    "logo": 2,
+    "id": 15,
+    "bg": 7,
+    "line": " How did they know we were coming? "
+  },
+  {
+    "logo": 5,
+    "id": 15,
+    "bg": 7,
+    "line": " Astrid: We must have been betrayed again. "
+  },
+  {
+    "logo": 5,
+    "id": 15,
+    "bg": 7,
+    "line": " This time it cost us the life of King Ragnar. "
+  },
+  {
+    "logo": 4,
+    "id": 15,
+    "bg": 7,
+    "line": " Knut: No way of ever knowing so just forget about it. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " Odin: Enough of these foolish games Loki! "
+  },
+  {
+    "logo": 4,
+    "id": 15,
+    "bg": 7,
+    "line": " Knut: Arrgh! What are you doing here? "
+  },
+  {
+    "logo": 2,
+    "id": 15,
+    "bg": 7,
+    "line": " Leif: Wait are you?.... "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " Odin: Yes Leif. I am Odin. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " Ragnar has been murdered. By your friend Knut. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " However, that is not really his name. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " Knut is actually the trickster Loki in disguise. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " Your games have gone too far Loki!! "
+  },
+  {
+    "logo": 5,
+    "id": 15,
+    "bg": 7,
+    "line": " Astrid: I am not Astrid. I am the goddess Freya. "
+  },
+  {
+    "logo": 5,
+    "id": 15,
+    "bg": 7,
+    "line": " * Removes disguise * "
+  },
+  {
+    "logo": 9,
+    "id": 15,
+    "bg": 7,
+    "line": " Freya: I joined you to guide you. "
+  },
+  {
+    "logo": 9,
+    "id": 15,
+    "bg": 7,
+    "line": " I also wanted to try to save Ragnar from Loki. "
+  },
+  {
+    "logo": 9,
+    "id": 15,
+    "bg": 7,
+    "line": " I am sorry I could not save you Ragnar. "
+  },
+  {
+    "logo": 4,
+    "id": 15,
+    "bg": 7,
+    "line": " Knut: Hehehe. I wondered if he would ever realise. "
+  },
+  {
+    "logo": 4,
+    "id": 15,
+    "bg": 7,
+    "line": " * Removes disguise * "
+  },
+  {
+    "logo": 7,
+    "id": 15,
+    "bg": 7,
+    "line": " Loki: Now bow before me Leif, You fool. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " Odin: No Loki. I will punish you for your crimes. "
+  },
+  {
+    "logo": 7,
+    "id": 15,
+    "bg": 7,
+    "line": " Loki: We will see about that. "
+  },
+  {
+    "logo": 7,
+    "id": 15,
+    "bg": 7,
+    "line": " * Vanishes in smoke * "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " Odin: Loki loves his games. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " I fear he intends to destroy all of Asgard. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " Leif, We will need your your help. "
+  },
+  {
+    "logo": 2,
+    "id": 15,
+    "bg": 7,
+    "line": " Leif: I would be honored to help the gods. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " Odin: First you must destroy the rest of Loki's soldiers. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " Odin: There are many still in England. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " When you have completed this task I will take you to Asgard. "
+  },
+  {
+    "logo": 8,
+    "id": 15,
+    "bg": 7,
+    "line": " For I fear Loki's plans. "
+  },
+  {
+    "logo": 2,
+    "id": 15,
+    "bg": 7,
+    "line": " Leif: I will not fail you. "
+  },
+  {
+    "logo": 2,
+    "id": 16,
+    "bg": 7,
+    "line": " Leif: I have eliminated Loki's soldiers. "
+  },
+  {
+    "logo": 2,
+    "id": 16,
+    "bg": 7,
+    "line": " What do we do next? "
+  },
+  {
+    "logo": 8,
+    "id": 16,
+    "bg": 7,
+    "line": " Odin: We go to Asgard. "
+  },
+  {
+    "logo": 8,
+    "id": 16,
+    "bg": 10,
+    "line": " Odin: We are here. This is Asgard. "
+  },
+  {
+    "logo": 8,
+    "id": 16,
+    "bg": 10,
+    "line": " It seems we are too late. Loki's soldiers are here. "
+  },
+  {
+    "logo": 6,
+    "id": 16,
+    "bg": 10,
+    "line": " Thor: You are not too late father. "
+  },
+  {
+    "logo": 6,
+    "id": 16,
+    "bg": 10,
+    "line": " The fun has just begun. "
+  },
+  {
+    "logo": 6,
+    "id": 17,
+    "bg": 11,
+    "line": " Thor: We have beaten back Loki's goons. "
+  },
+  {
+    "logo": 6,
+    "id": 17,
+    "bg": 11,
+    "line": " Who is this one? "
+  },
+  {
+    "logo": 2,
+    "id": 17,
+    "bg": 11,
+    "line": " Leif: I am Leif. Here to help fight against Loki. "
+  },
+  {
+    "logo": 6,
+    "id": 17,
+    "bg": 11,
+    "line": " Thor: Where is Loki? "
+  },
+  {
+    "logo": 9,
+    "id": 17,
+    "bg": 11,
+    "line": " Freya: He escaped to Jotunheim. "
+  },
+  {
+    "logo": 8,
+    "id": 17,
+    "bg": 11,
+    "line": " Odin: We shall chase him there. "
+  },
+  {
+    "logo": 8,
+    "id": 17,
+    "bg": 11,
+    "line": " But first we must get to the Bifrost. "
+  },
+  {
+    "logo": 8,
+    "id": 18,
+    "bg": 12,
+    "line": " Odin: We have made it "
+  },
+  {
+    "logo": 8,
+    "id": 18,
+    "bg": 12,
+    "line": " Now we go to Jotunheim "
+  },
+  {
+    "logo": 8,
+    "id": 18,
+    "bg": 13,
+    "line": " Odin: I do not like this land. "
+  },
+  {
+    "logo": 8,
+    "id": 18,
+    "bg": 13,
+    "line": " It reminds me of death. "
+  },
+  {
+    "logo": 6,
+    "id": 18,
+    "bg": 13,
+    "line": " Thor: I'm ready for a fight! "
+  },
+  {
+    "logo": 6,
+    "id": 18,
+    "bg": 13,
+    "line": " Let's hurry after Loki. "
+  },
+  {
+    "logo": 6,
+    "id": 19,
+    "bg": 14,
+    "line": " Thor: You will pay for what you have done Loki "
+  },
+  {
+    "logo": 7,
+    "id": 19,
+    "bg": 14,
+    "line": " Loki: Lets agree to disagree. "
+  },
+  {
+    "logo": 7,
+    "id": 19,
+    "bg": 14,
+    "line": " You will never catch me! "
+  },
+  {
+    "logo": 8,
+    "id": 19,
+    "bg": 14,
+    "line": " Odin: We shall see Loki. "
+  },
+  {
+    "logo": 8,
+    "id": 19,
+    "bg": 14,
+    "line": " We shall see. "
+  },
+  {
+    "logo": 7,
+    "id": 20,
+    "bg": 13,
+    "line": " Loki: Argh! "
+  },
+  {
+    "logo": 7,
+    "id": 20,
+    "bg": 13,
+    "line": " Why wont you quit! "
+  },
+  {
+    "logo": 2,
+    "id": 20,
+    "bg": 13,
+    "line": " Leif: I will have justice for Ragnar! "
+  },
+  {
+    "logo": 9,
+    "id": 20,
+    "bg": 13,
+    "line": " Freya: You will never play tricks on us again Loki! "
+  },
+  {
+    "logo": 8,
+    "id": 20,
+    "bg": 13,
+    "line": " Odin: It is over Loki! "
+  },
+  {
+    "logo": 7,
+    "id": 21,
+    "bg": 14,
+    "line": " Loki: I think this is all just a misunderstanding. "
+  },
+  {
+    "logo": 7,
+    "id": 21,
+    "bg": 14,
+    "line": " Can't we just all move on? "
+  },
+  {
+    "logo": 8,
+    "id": 21,
+    "bg": 14,
+    "line": " * Ties up and gags Loki * "
+  },
+  {
+    "logo": 8,
+    "id": 21,
+    "bg": 14,
+    "line": " Odin: We are taking you back to Asgard to be imprisoned. "
+  },
+  {
+    "logo": 8,
+    "id": 21,
+    "bg": 14,
+    "line": " Thank you for the help Leif. "
+  },
+  {
+    "logo": 8,
+    "id": 21,
+    "bg": 14,
+    "line": " When it's your time I shall see you in the halls of Valhalla. "
+  },
+  {
+    "logo": 9,
+    "id": 21,
+    "bg": 14,
+    "line": " Freya: Goodbye Leif. "
+  },
+  {
+    "logo": 9,
+    "id": 21,
+    "bg": 14,
+    "line": " I will await you in Valhalla. "
+  },
+  {
+    "logo": 6,
+    "id": 21,
+    "bg": 14,
+    "line": " Thor: I have a feeling we will see each other again. "
+  },
+  {
+    "logo": 6,
+    "id": 21,
+    "bg": 14,
+    "line": " But for now, farewell. "
+  }
+]

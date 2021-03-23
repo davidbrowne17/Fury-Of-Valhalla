@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="350" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="1">
+ <layer id="1" name="Background" width="350" height="20">
+  <data encoding="base64" compression="zstd">
+   KLUv/WBgbE0AABAAAAEAW+0OsA==
+  </data>
+ </layer>
+ <layer id="2" name="Graphics" width="350" height="20">
+  <data encoding="base64" compression="zstd">
+   KLUv/WBgbE0AABAAAAEAW+0OsA==
+  </data>
+ </layer>
+ <objectgroup id="3" name="Ground"/>
+ <objectgroup id="4" name="Box"/>
+ <objectgroup id="5" name="Brick"/>
+ <objectgroup id="6" name="Enemy"/>
+ <objectgroup id="7" name="NPC"/>
+ <objectgroup id="8" name="PlayerStart"/>
+</map>

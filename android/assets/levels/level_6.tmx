@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="350" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="19" nextobjectid="141">
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="Background" width="350" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3DMQ0AAAwEoVvfv+Ha6AAJq6aqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqvrgAVqUBwVgbQAA
+  </data>
+ </layer>
+ <layer id="2" name="Graphics" width="350" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3W22rDMAyA4TzABmU3vRtslx07vP/TtYEGgokdWZYse/wfiA7iyJK7KF0WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEC09+gCAGAy34/4abj/1aoQI1/PADAGzYxpnUtWObxy/j7iT3nvOnOvyzizd52312cwe4Ex5GbMi+Iei30lcrVZ1NVim7lbHM1eq3eDJM9+5qazt/T9Wr4Ta3N5vI8t80f9TumRE/MrPdezO+otnbm52Vt6N9ScmeR9WZq7mtwlVu9Cze+AmjUt+bX3S86g9nk5y/mfn78ZfQ6So5eWWqX3ruuOZu4WrWp62K/1qkdTi3Rdy9+avbV6PwPpfqX9S9feDGrBsY/AKNWwJJ+565K1pbxeZ9DjfLU9WNTl1V+aU9ujZ++R37f3+eT2jOR5ppK4OcQlMDa5axfBdcnafdwynz17s9xD2nfu7EbrL82p7TGibo+8Z3tYn08aHjNnphnldQaR/Wxy10r/T0vF2vQMjz579ma5h7Tv3NmN1l+aU9tjRN0eec/2sD6fNKJnbvSMWuMOT5ep5WBtAAA=
+  </data>
+ </layer>
+ <layer id="10" name="object" width="350" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3UQQ5AMBAFUCcQDmBl6/7ns22aTimRNvFeYqGobxJ/mgAAAAAAAAAAAAAAAAAAAAAAAGi1JgfAXVF36JS60rwArkTdoVPqonmYE3zr6T+2Bfsc2Xp+nr9zLlxP16IOrT1f03p/nuONkfrsKsvTrCN9IwBt9t4BAH5o6R0A4Gf0Li1OpYEkemBtAAA=
+  </data>
+ </layer>
+ <objectgroup id="3" name="Ground">
+  <object id="36" x="336" y="272" width="496" height="48"/>
+  <object id="37" x="864" y="272" width="80" height="48"/>
+  <object id="38" x="960" y="272" width="16" height="48"/>
+  <object id="39" x="992" y="272" width="80" height="48"/>
+  <object id="40" x="1088" y="272" width="32" height="48"/>
+  <object id="41" x="1136" y="272" width="16" height="48"/>
+  <object id="42" x="1168" y="272" width="128" height="48"/>
+  <object id="43" x="1312" y="272" width="16" height="48"/>
+  <object id="44" x="1344" y="272" width="16" height="48"/>
+  <object id="45" x="1376" y="272" width="336" height="48"/>
+  <object id="46" x="1744" y="272" width="368" height="48"/>
+  <object id="47" x="2128" y="272" width="16" height="48"/>
+  <object id="48" x="2160" y="272" width="176" height="48"/>
+  <object id="49" x="2352" y="272" width="256" height="48"/>
+  <object id="50" x="2640" y="272" width="320" height="48"/>
+  <object id="51" x="2976" y="272" width="48" height="48"/>
+  <object id="52" x="3040" y="272" width="16" height="48"/>
+  <object id="53" x="3072" y="272" width="272" height="48"/>
+  <object id="55" x="3728" y="272" width="368" height="48"/>
+  <object id="56" x="4128" y="272" width="48" height="48"/>
+  <object id="57" x="4192" y="272" width="16" height="48"/>
+  <object id="58" x="4224" y="272" width="336" height="48"/>
+  <object id="140" x="3360" y="272" width="336" height="48"/>
+ </objectgroup>
+ <objectgroup id="4" name="Box">
+  <object id="136" x="1440" y="256" width="16" height="16"/>
+  <object id="137" x="1632" y="256" width="16" height="16"/>
+  <object id="138" x="1264" y="256" width="16" height="16"/>
+  <object id="139" x="1184" y="256" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="5" name="Brick">
+  <object id="35" x="0" y="0" width="336" height="320"/>
+  <object id="59" x="4560" y="0" width="16" height="320"/>
+  <object id="62" x="992" y="256" width="16" height="16"/>
+  <object id="63" x="1056" y="256" width="16" height="16"/>
+  <object id="85" x="1824" y="240" width="16" height="16"/>
+  <object id="86" x="1840" y="224" width="16" height="16"/>
+  <object id="87" x="1856" y="208" width="16" height="16"/>
+  <object id="88" x="1872" y="192" width="16" height="16"/>
+  <object id="89" x="1888" y="208" width="16" height="16"/>
+  <object id="90" x="1904" y="224" width="16" height="16"/>
+  <object id="91" x="1920" y="240" width="16" height="16"/>
+  <object id="122" x="2416" y="224" width="16" height="32"/>
+  <object id="123" x="2432" y="208" width="16" height="16"/>
+  <object id="124" x="2448" y="192" width="32" height="16"/>
+  <object id="125" x="2480" y="208" width="16" height="16"/>
+  <object id="126" x="2496" y="224" width="16" height="32"/>
+ </objectgroup>
+ <objectgroup id="9" name="Horn">
+  <object id="95" x="672" y="256" width="16" height="16"/>
+  <object id="96" x="960" y="256" width="16" height="16"/>
+  <object id="97" x="1136" y="256" width="16" height="16"/>
+  <object id="98" x="1312" y="256" width="16" height="16"/>
+  <object id="99" x="1344" y="256" width="16" height="16"/>
+  <object id="100" x="1456" y="240" width="16" height="16"/>
+  <object id="101" x="1472" y="224" width="16" height="16"/>
+  <object id="102" x="1488" y="224" width="16" height="16"/>
+  <object id="103" x="1504" y="224" width="16" height="16"/>
+  <object id="104" x="1520" y="240" width="16" height="16"/>
+  <object id="105" x="1552" y="240" width="16" height="16"/>
+  <object id="106" x="1568" y="224" width="16" height="16"/>
+  <object id="107" x="1584" y="224" width="16" height="16"/>
+  <object id="108" x="1600" y="224" width="16" height="16"/>
+  <object id="109" x="1616" y="240" width="16" height="16"/>
+  <object id="110" x="1856" y="256" width="16" height="16"/>
+  <object id="111" x="2128" y="256" width="16" height="16"/>
+  <object id="112" x="2688" y="256" width="16" height="16"/>
+  <object id="113" x="2704" y="240" width="16" height="16"/>
+  <object id="114" x="2720" y="224" width="16" height="16"/>
+  <object id="115" x="2736" y="208" width="16" height="16"/>
+  <object id="116" x="2752" y="208" width="16" height="16"/>
+  <object id="117" x="2768" y="208" width="16" height="16"/>
+  <object id="118" x="2784" y="224" width="16" height="16"/>
+  <object id="119" x="2800" y="240" width="16" height="16"/>
+  <object id="120" x="2816" y="256" width="16" height="16"/>
+  <object id="121" x="3040" y="256" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="6" name="Saxon"/>
+ <objectgroup id="8" name="PlayerStart">
+  <object id="60" x="352" y="256" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="11" name="LevelEnd">
+  <object id="61" x="4544" y="256" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="12" name="Jotun"/>
+ <objectgroup id="13" name="Nord">
+  <object id="69" x="768" y="256" width="16" height="16"/>
+  <object id="70" x="560" y="256" width="16" height="16"/>
+  <object id="71" x="1024" y="256" width="16" height="16"/>
+  <object id="72" x="1216" y="256" width="16" height="16"/>
+  <object id="73" x="1520" y="256" width="16" height="16"/>
+  <object id="75" x="1600" y="256" width="16" height="16"/>
+  <object id="76" x="1888" y="256" width="16" height="16"/>
+  <object id="77" x="2032" y="256" width="16" height="16"/>
+  <object id="78" x="2304" y="256" width="16" height="16"/>
+  <object id="79" x="2592" y="256" width="16" height="16"/>
+  <object id="80" x="2912" y="256" width="16" height="16"/>
+  <object id="81" x="2832" y="256" width="16" height="16"/>
+  <object id="82" x="3312" y="256" width="16" height="16"/>
+  <object id="83" x="3616" y="256" width="16" height="16"/>
+  <object id="84" x="4048" y="256" width="16" height="16"/>
+  <object id="131" x="3168" y="256" width="16" height="16"/>
+  <object id="132" x="3488" y="256" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="14" name="Spike">
+  <object id="92" x="1360" y="288" width="16" height="32"/>
+  <object id="93" x="1328" y="288" width="16" height="32"/>
+  <object id="94" x="1296" y="288" width="16" height="32"/>
+  <object id="135" x="3344" y="274.125" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="15" name="Frank"/>
+ <objectgroup id="16" name="Monks"/>
+ <objectgroup id="17" name="Axe">
+  <object id="68" x="896" y="256" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="18" name="Fireball"/>
+</map>

@@ -1,0 +1,552 @@
+
+playerandenemies.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+axe
+  rotate: false
+  xy: 41, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+emptytexture
+  rotate: false
+  xy: 83, 74
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fireball
+  rotate: false
+  xy: 161, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fireball2
+  rotate: false
+  xy: 38, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fireball3
+  rotate: false
+  xy: 146, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frank
+  rotate: false
+  xy: 62, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frank_walk
+  rotate: false
+  xy: 62, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frank_attack1
+  rotate: false
+  xy: 197, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frank_attack2
+  rotate: false
+  xy: 2, 74
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+frank_attack3
+  rotate: false
+  xy: 23, 92
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+frank_attack4
+  rotate: false
+  xy: 44, 110
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+frank_dead
+  rotate: false
+  xy: 173, 74
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frank_dead_1
+  rotate: false
+  xy: 152, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frank_jump_1
+  rotate: false
+  xy: 107, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frank_jump_2
+  rotate: false
+  xy: 98, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frank_walk_1
+  rotate: false
+  xy: 65, 74
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frank_walk_2
+  rotate: false
+  xy: 86, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jotun_attack1
+  rotate: false
+  xy: 113, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jotun_attack2
+  rotate: false
+  xy: 23, 74
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jotun_attack3
+  rotate: false
+  xy: 2, 110
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jotun_attack4
+  rotate: false
+  xy: 44, 92
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jotun_dead
+  rotate: false
+  xy: 59, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jotun_dead_1
+  rotate: false
+  xy: 20, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jotun_dead_2
+  rotate: false
+  xy: 20, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jotun_jump_1
+  rotate: false
+  xy: 155, 74
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jotun_jump_2
+  rotate: false
+  xy: 176, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jotun_walk
+  rotate: false
+  xy: 2, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jotun
+  rotate: false
+  xy: 2, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jotun_walk_1
+  rotate: false
+  xy: 119, 74
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jotun_walk_2
+  rotate: false
+  xy: 212, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+nord
+  rotate: false
+  xy: 140, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+nord_walk
+  rotate: false
+  xy: 140, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+nord_attack1
+  rotate: false
+  xy: 110, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+nord_attack2
+  rotate: false
+  xy: 2, 38
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+nord_attack3
+  rotate: false
+  xy: 23, 56
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+nord_attack4
+  rotate: false
+  xy: 23, 110
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+nord_dead
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+nord_dead_1
+  rotate: false
+  xy: 143, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+nord_dead_2
+  rotate: false
+  xy: 56, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+nord_jump_1
+  rotate: false
+  xy: 128, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+nord_jump_2
+  rotate: false
+  xy: 128, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+nord_walk_1
+  rotate: false
+  xy: 74, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+nord_walk_2
+  rotate: false
+  xy: 95, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1
+  rotate: false
+  xy: 170, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1_attack1
+  rotate: false
+  xy: 38, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1_attack2
+  rotate: false
+  xy: 110, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1_attack3
+  rotate: false
+  xy: 80, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1_attack4
+  rotate: false
+  xy: 101, 74
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1_walk
+  rotate: false
+  xy: 74, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1_walk_1
+  rotate: false
+  xy: 194, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1_walk_2
+  rotate: false
+  xy: 215, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1dead
+  rotate: false
+  xy: 134, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1dead_1
+  rotate: false
+  xy: 23, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+npc1dead_2
+  rotate: false
+  xy: 44, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+saxon
+  rotate: false
+  xy: 116, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+saxon_walk
+  rotate: false
+  xy: 116, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+saxon_attack1
+  rotate: false
+  xy: 233, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+saxon_attack2
+  rotate: false
+  xy: 2, 56
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+saxon_attack3
+  rotate: false
+  xy: 65, 92
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+saxon_attack4
+  rotate: false
+  xy: 2, 92
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+saxon_dead
+  rotate: false
+  xy: 77, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+saxon_dead_1
+  rotate: false
+  xy: 158, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+saxon_dead_2
+  rotate: false
+  xy: 179, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frank_dead_2
+  rotate: false
+  xy: 179, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+saxon_jump_1
+  rotate: false
+  xy: 104, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+saxon_jump_2
+  rotate: false
+  xy: 125, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+saxon_walk_1
+  rotate: false
+  xy: 191, 74
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+saxon_walk_2
+  rotate: false
+  xy: 149, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+viking
+  rotate: false
+  xy: 137, 74
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+viking_attack1
+  rotate: false
+  xy: 131, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+viking_attack2
+  rotate: false
+  xy: 44, 74
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+viking_attack3
+  rotate: false
+  xy: 65, 110
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+viking_attack4
+  rotate: false
+  xy: 86, 110
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+viking_jump_1
+  rotate: false
+  xy: 56, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+viking_jump_2
+  rotate: false
+  xy: 146, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+viking_walk
+  rotate: false
+  xy: 122, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+viking_walk_1
+  rotate: false
+  xy: 92, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+viking_walk_2
+  rotate: false
+  xy: 92, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
