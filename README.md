@@ -5,7 +5,6 @@
  
  ## Game Downloads
  Windows: https://davidbrowne.itch.io/fury-of-valhalla \
- 
  Android: https://play.google.com/store/apps/details?id=net.davidbrowne.furyofvalhalla 
 
 ## License
