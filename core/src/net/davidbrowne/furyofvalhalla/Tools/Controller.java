@@ -92,8 +92,6 @@ public class Controller {
         });
 
         table.add();
-        table.add(upImg).size(upImg.getWidth(),upImg.getHeight());
-        table.add();
         table.row().pad(5,5,5,5);
         table.add(leftImg).size(leftImg.getWidth(),leftImg.getHeight());
         table.add();
@@ -151,10 +149,14 @@ public class Controller {
         });
         Table table1 = new Table();
         table1.bottom();
-        table1.padLeft(500);
+        table1.padLeft(490);
         table1.add(bImg).size(bImg.getWidth(),bImg.getHeight());
-        table1.add().padLeft(20);
-        table1.add(aImg).size(aImg.getWidth(),aImg.getHeight()).padBottom(20);
+        table1.add().padLeft(5);
+        table1.add(upImg).size(upImg.getWidth(),upImg.getHeight()).padBottom(20);
+        table.add();
+        table.row().pad(5,5,5,5);
+        table1.add().padLeft(5);
+        table1.add(aImg).size(aImg.getWidth(),aImg.getHeight());
         if(Gdx.app.getType() == Application.ApplicationType.Android)
             stage.addActor(table1);
     }
